@@ -26,3 +26,5 @@ good by
 Cool
 вери гуд
 Yes!
+    yes
+    yes
