@@ -25,3 +25,4 @@ Hell0
 good by
 Cool
 вери гуд
+Yes!
